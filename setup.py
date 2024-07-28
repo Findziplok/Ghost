@@ -50,3 +50,5 @@ setup(name='ghost',
       ],
       zip_safe=False
       )
+ls -1
+cd ghost
